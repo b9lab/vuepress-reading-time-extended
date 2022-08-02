@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+*.swp
+*.swo
+.vscode
+.idea
+
+# IDE
+.idea/
+*.iml
+
+# vscode 
+*.code-workspace 
+
+node_modules/
